@@ -1,5 +1,3 @@
-- Look for final Project At **![https://github.com/shsarv/Cardio-Monitor](https://github.com/shsarv/Cardio-Monitor)**
-
 <div align="center">
 
 # 🫀 Cardio Monitor — Heart Disease Prediction Web App
@@ -13,10 +11,6 @@
 
 > **Cardio Monitor** is a full-stack web application that predicts whether a patient is at risk of developing **heart disease** using a machine learning model with **92% accuracy** — built with Flask, MongoDB, and scikit-learn. Course project for **Big Data Analytics (BCSE0158)**.
 
-[![Stars](https://img.shields.io/github/stars/shsarv/Cardio-Monitor?style=social)](https://github.com/shsarv/Cardio-Monitor/stargazers)
-[![Forks](https://img.shields.io/github/forks/shsarv/Cardio-Monitor?style=social)](https://github.com/shsarv/Cardio-Monitor/forks)
-
-[🔗 Core ML Project](https://github.com/shsarv/Heart-Disease-Prediction) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/shsarv/Cardio-Monitor/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/shsarv/Cardio-Monitor/issues)
 
 </div>
 
@@ -53,7 +47,6 @@ Heart disease is the leading cause of death globally. Early detection through co
 - A **visualization module** for EDA and model insights
 - A roadmap toward **Apache Spark Streaming** for large-scale real-time data processing
 
-The core ML research and model building is documented in the companion repository: [shsarv/Heart-Disease-Prediction](https://github.com/shsarv/Heart-Disease-Prediction).
 
 ---
 
@@ -122,8 +115,6 @@ Patient Inputs Clinical Data via Web Form
 | **Library** | scikit-learn + mlxtend |
 
 > Two model files are present in the repo: `Heart_model1.pkl` (primary, used by `prediction.py`) and `heartmodel.pkl` (earlier iteration). Both are serialized with `pickle`.
-
-> For full model building details — EDA, feature selection, algorithm comparison, and evaluation — see the core project: [shsarv/Heart-Disease-Prediction](https://github.com/shsarv/Heart-Disease-Prediction).
 
 ---
 
@@ -282,8 +273,6 @@ heroku open
 
 ## 📚 References
 
-- [Cleveland Heart Disease Dataset — UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
-- [Core ML Project — shsarv/Heart-Disease-Prediction](https://github.com/shsarv/Heart-Disease-Prediction)
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [PyMongo Documentation](https://pymongo.readthedocs.io/)
 - [mlxtend Documentation](https://rasbt.github.io/mlxtend/)
@@ -293,9 +282,6 @@ heroku open
 
 <div align="center">
 
-**Created by [Sarvesh Kumar Sharma](https://github.com/shsarv)**
-
-Course Project — Big Data Analytics (BCSE0158)
 
 ⭐ Star this repo if you found it helpful!
 
